@@ -1,0 +1,5 @@
+Guess Game
+
+Player guess a 4-digit number, type in the number you guess and it will compare with the right answer.
+The feedback information will be the form of xAyB, xA means your guessed number has x numbers the same as answer with right location,
+yB means your guessed number has y numbers the same as the answer but with wrong location, you can infer the answer given this information.
